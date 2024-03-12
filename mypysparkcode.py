@@ -12,5 +12,4 @@ m= matrix(arr)
 m1=m.transpose()
 print('matrix is \n',m)
 print('tranpose of matrix is\n',m1)
-ghaj
 
